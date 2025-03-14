@@ -1,0 +1,3 @@
+[submodule "AutoGears.Desktop"]
+	path = AutoGears.Desktop
+	url = https://github.com/rbx0o/AutoGears.Desktop
