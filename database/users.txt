@@ -1,0 +1,22 @@
+user1@admin.com password123 - М
+user2@admin.ru qwerty456 - М
+user3@admin.su securePass789 - М
+user4@admin.bk testpass321 - М
+user5@admin.org helloWorld654 - М
+
+user6@manager.com randomPass987 - М
+user7@manager.ru mySecret111 - Ж
+user8@manager.su letMeIn222 - Ж
+user9@manager.bk strongPass333 - Ж
+user10@manager.org supabaseRocks444 - Ж
+
+user11@client.com hashMe555 - Ж
+user12@client.ru dbSecure666 - М
+user13@client.su samplePass777 - М
+user14@client.bk simplePass888 - М
+user15@client.org tryThis999 - М
+user16@client.com anotherPass000 - М
+user17@client.ru oneMorePass101 - М
+user18@client.su testMe102 - М
+user19@client.bk safePass103 - М
+user20@client.org randomTest104 - Ж
